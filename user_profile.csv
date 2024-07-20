@@ -1,0 +1,101 @@
+UserID,Age,Gender,Dietary Preferences,Favorite Foods,Disliked Foods,Allergies,Intolerances,Health Objectives,Activity Level,Meals per Day
+1,56,Female,Vegetarian,"['Green Onion', 'Grapes', 'Cauliflower']",['Sweet Corn'],None,None,Muscle Gain,Very active,3
+2,46,Female,Omnivore,"['Green Cabbage', 'Cantaloupe', 'Orange']",['Pineapple'],Dairy,None,Weight Loss,Very active,5
+3,32,Male,Vegan,"['Mushrooms', 'Cantaloupe', 'Kiwifruit']",['Green Cabbage'],Dairy,None,Weight Loss,Very active,4
+4,60,Male,Vegetarian,"['Mushrooms', 'Lemon', 'Pineapple']",['Banana'],Nuts,Lactose,Muscle Gain,Very active,3
+5,25,Male,Vegetarian,"['Carrot', 'Orange', 'Watermelon']",['Asparagus'],Dairy,Lactose,Weight Loss,Moderately active,4
+6,38,Male,Vegetarian,"['Onion', 'Celery', 'Sweet Corn']",['Leaf Lettuce'],Dairy,None,Muscle Gain,Very active,5
+7,56,Female,Omnivore,"['Honeydew Melon', 'Grapes', 'Celery']",['Leaf Lettuce'],Gluten,Lactose,Weight Loss,Moderately active,5
+8,36,Male,Vegan,"['Iceberg Lettuce', 'Green Onion', 'Asparagus']",['Green Cabbage'],Nuts,Lactose,General Fitness,Very active,2
+9,40,Male,Vegetarian,"['Cantaloupe', 'Watermelon', 'Orange']",['Radishes'],Gluten,Lactose,Weight Loss,Moderately active,4
+10,28,Male,Vegetarian,"['Orange', 'Bell Pepper', 'Sweet Cherrie']",['Cantaloupe'],Gluten,None,Weight Loss,Moderately active,4
+11,28,Male,Vegetarian,"['Cucumber', 'Sweet Cherrie', 'Pineapple']",['Pear'],None,Gluten,Muscle Gain,Sedentary,3
+12,41,Male,Omnivore,"['Honeydew Melon', 'Carrot', 'Green (Snap) Beans']",['Orange'],Nuts,Gluten,Weight Loss,Very active,4
+13,53,Female,Omnivore,"['Potato', 'Sweet Cherrie', 'Honeydew Melon']",['Peach'],None,Gluten,Muscle Gain,Sedentary,2
+14,57,Male,Vegan,"['Broccoli', 'Iceberg Lettuce', 'Cucumber']",['Honeydew Melon'],None,None,General Fitness,Sedentary,5
+15,41,Female,Omnivore,"['Mushrooms', 'Strawberries', 'Orange']",['Grapefruit'],Gluten,Lactose,Muscle Gain,Very active,5
+16,20,Male,Vegetarian,"['Strawberries', 'Radishes', 'Sweet Cherrie']",['Cauliflower'],Dairy,Lactose,Muscle Gain,Sedentary,2
+17,39,Female,Vegan,"['Onion', 'Cucumber', 'Iceberg Lettuce']",['Iceberg Lettuce'],Nuts,None,Weight Loss,Very active,4
+18,19,Male,Vegetarian,"['Orange', 'Leaf Lettuce', 'Sweet Corn']",['Plums'],Dairy,None,General Fitness,Sedentary,4
+19,41,Male,Vegetarian,"['Summer Squash', 'Cucumber', 'Apple']",['Lime'],Gluten,Gluten,Muscle Gain,Very active,2
+20,61,Female,Omnivore,"['Potato', 'Summer Squash', 'Cantaloupe']",['Watermelon'],Gluten,Gluten,Weight Loss,Very active,3
+21,47,Female,Vegan,"['Summer Squash', 'Nectarine', 'Radishes']",['Onion'],Gluten,None,Weight Loss,Very active,5
+22,55,Female,Omnivore,"['Cucumber', 'Pineapple', 'Broccoli']",['Kiwifruit'],Gluten,Gluten,Muscle Gain,Moderately active,2
+23,19,Male,Omnivore,"['Mushrooms', 'Orange', 'Nectarine']",['Peach'],Gluten,Lactose,Weight Loss,Sedentary,2
+24,38,Female,Vegan,"['Plums', 'Bell Pepper', 'Carrot']",['Sweet Potato'],Gluten,None,Muscle Gain,Moderately active,4
+25,50,Male,Vegetarian,"['Tomato', 'Peach', 'Orange']",['Asparagus'],Dairy,None,Muscle Gain,Sedentary,5
+26,29,Male,Vegetarian,"['Celery', 'Sweet Cherrie', 'Green Cabbage']",['Celery'],None,Lactose,Muscle Gain,Sedentary,4
+27,39,Female,Vegan,"['Iceberg Lettuce', 'Asparagus', 'Pineapple']",['Honeydew Melon'],Dairy,Lactose,General Fitness,Sedentary,2
+28,61,Female,Vegetarian,"['Peach', 'Sweet Cherrie', 'Green Cabbage']",['Strawberries'],Nuts,Lactose,Muscle Gain,Moderately active,3
+29,42,Male,Vegan,"['Honeydew Melon', 'Celery', 'Sweet Corn']",['Cucumber'],Dairy,Gluten,Weight Loss,Sedentary,5
+30,44,Male,Vegan,"['Mushrooms', 'Avocado', 'Apple']",['Summer Squash'],Gluten,None,General Fitness,Moderately active,2
+31,59,Female,Omnivore,"['Mushrooms', 'Pineapple', 'Grapefruit']",['Green (Snap) Beans'],Dairy,Gluten,Weight Loss,Very active,2
+32,45,Female,Vegan,"['Nectarine', 'Kiwifruit', 'Green (Snap) Beans']",['Summer Squash'],None,Lactose,General Fitness,Sedentary,3
+33,33,Female,Omnivore,"['Radishes', 'Banana', 'Pineapple']",['Carrot'],Nuts,Gluten,General Fitness,Sedentary,2
+34,32,Male,Vegetarian,"['Green (Snap) Beans', 'Tangerine', 'Green Onion']",['Orange'],Dairy,Lactose,General Fitness,Very active,2
+35,64,Male,Vegetarian,"['Lemon', 'Grapefruit', 'Onion']",['Peach'],None,Gluten,General Fitness,Very active,5
+36,61,Male,Vegetarian,"['Asparagus', 'Potato', 'Plums']",['Avocado'],Dairy,Gluten,Weight Loss,Sedentary,5
+37,20,Male,Vegetarian,"['Mushrooms', 'Green (Snap) Beans', 'Lime']",['Green (Snap) Beans'],Nuts,Lactose,Muscle Gain,Very active,5
+38,54,Male,Omnivore,"['Green (Snap) Beans', 'Mushrooms', 'Peach']",['Mushrooms'],Dairy,Gluten,Weight Loss,Moderately active,4
+39,24,Male,Vegetarian,"['Lime', 'Banana', 'Avocado']",['Peach'],Gluten,None,Muscle Gain,Moderately active,3
+40,38,Female,Vegan,"['Grapes', 'Broccoli', 'Strawberries']",['Pineapple'],Dairy,Gluten,Weight Loss,Sedentary,5
+41,26,Male,Vegan,"['Apple', 'Mushrooms', 'Kiwifruit']",['Plums'],None,Gluten,General Fitness,Moderately active,4
+42,56,Male,Vegan,"['Banana', 'Tomato', 'Bell Pepper']",['Grapefruit'],Dairy,None,General Fitness,Moderately active,4
+43,35,Male,Omnivore,"['Cantaloupe', 'Banana', 'Radishes']",['Sweet Potato'],None,Lactose,Muscle Gain,Sedentary,3
+44,21,Female,Vegetarian,"['Pineapple', 'Cucumber', 'Lime']",['Bell Pepper'],Nuts,None,Muscle Gain,Very active,3
+45,42,Male,Vegetarian,"['Avocado', 'Orange', 'Cucumber']",['Lime'],Dairy,Gluten,Weight Loss,Sedentary,2
+46,31,Male,Vegetarian,"['Grapes', 'Nectarine', 'Cucumber']",['Honeydew Melon'],Nuts,Lactose,Muscle Gain,Moderately active,4
+47,26,Female,Omnivore,"['Cantaloupe', 'Radishes', 'Nectarine']",['Onion'],Nuts,Gluten,Weight Loss,Sedentary,5
+48,43,Male,Vegan,"['Honeydew Melon', 'Avocado', 'Asparagus']",['Tomato'],Dairy,Gluten,Muscle Gain,Sedentary,3
+49,19,Male,Vegan,"['Cauliflower', 'Lemon', 'Leaf Lettuce']",['Sweet Cherrie'],None,None,Muscle Gain,Moderately active,4
+50,37,Male,Vegetarian,"['Onion', 'Celery', 'Lime']",['Honeydew Melon'],Nuts,None,Muscle Gain,Moderately active,5
+51,45,Male,Vegan,"['Leaf Lettuce', 'Pear', 'Plums']",['Broccoli'],Nuts,Lactose,General Fitness,Sedentary,4
+52,64,Male,Vegan,"['Lemon', 'Iceberg Lettuce', 'Potato']",['Lime'],Dairy,Lactose,General Fitness,Moderately active,3
+53,24,Female,Omnivore,"['Honeydew Melon', 'Onion', 'Watermelon']",['Avocado'],Dairy,Lactose,Weight Loss,Moderately active,2
+54,61,Female,Omnivore,"['Mushrooms', 'Plums', 'Orange']",['Apple'],Dairy,Gluten,Muscle Gain,Moderately active,4
+55,25,Female,Omnivore,"['Potato', 'Peach', 'Cucumber']",['Onion'],Dairy,None,Weight Loss,Moderately active,5
+56,64,Male,Omnivore,"['Mushrooms', 'Cantaloupe', 'Green (Snap) Beans']",['Nectarine'],Dairy,None,Muscle Gain,Moderately active,3
+57,52,Male,Vegetarian,"['Orange', 'Sweet Potato', 'Green (Snap) Beans']",['Summer Squash'],Gluten,None,General Fitness,Moderately active,2
+58,31,Male,Omnivore,"['Sweet Cherrie', 'Avocado', 'Onion']",['Cucumber'],Dairy,Lactose,General Fitness,Very active,5
+59,34,Female,Vegan,"['Honeydew Melon', 'Potato', 'Radishes']",['Orange'],None,None,Muscle Gain,Sedentary,5
+60,53,Male,Vegetarian,"['Honeydew Melon', 'Cucumber', 'Sweet Cherrie']",['Asparagus'],Nuts,None,Muscle Gain,Moderately active,5
+61,57,Male,Vegan,"['Sweet Potato', 'Broccoli', 'Asparagus']",['Cantaloupe'],None,None,General Fitness,Sedentary,4
+62,21,Female,Vegan,"['Green Cabbage', 'Pear', 'Radishes']",['Leaf Lettuce'],None,Lactose,General Fitness,Very active,3
+63,19,Male,Vegan,"['Kiwifruit', 'Asparagus', 'Banana']",['Green Onion'],Gluten,None,Weight Loss,Moderately active,5
+64,23,Female,Omnivore,"['Kiwifruit', 'Green Cabbage', 'Potato']",['Tangerine'],Dairy,Lactose,General Fitness,Sedentary,4
+65,59,Female,Omnivore,"['Grapefruit', 'Pineapple', 'Strawberries']",['Kiwifruit'],Nuts,None,Muscle Gain,Moderately active,3
+66,21,Female,Vegetarian,"['Sweet Potato', 'Radishes', 'Avocado']",['Green Onion'],None,None,Weight Loss,Moderately active,3
+67,46,Male,Vegetarian,"['Green Cabbage', 'Lemon', 'Watermelon']",['Pineapple'],Dairy,None,Muscle Gain,Moderately active,4
+68,35,Male,Omnivore,"['Radishes', 'Sweet Cherrie', 'Grapefruit']",['Lime'],Dairy,Lactose,Weight Loss,Moderately active,4
+69,43,Male,Vegan,"['Strawberries', 'Cauliflower', 'Radishes']",['Grapefruit'],Gluten,Lactose,Muscle Gain,Moderately active,5
+70,61,Male,Vegetarian,"['Grapes', 'Watermelon', 'Lime']",['Summer Squash'],Gluten,None,General Fitness,Moderately active,3
+71,51,Male,Omnivore,"['Cucumber', 'Pineapple', 'Summer Squash']",['Plums'],Gluten,Gluten,Muscle Gain,Moderately active,2
+72,27,Male,Omnivore,"['Sweet Corn', 'Lemon', 'Green (Snap) Beans']",['Mushrooms'],Nuts,Lactose,Weight Loss,Very active,4
+73,53,Male,Omnivore,"['Green Onion', 'Cauliflower', 'Sweet Potato']",['Tangerine'],None,Lactose,Muscle Gain,Very active,3
+74,31,Female,Vegan,"['Sweet Corn', 'Bell Pepper', 'Honeydew Melon']",['Cauliflower'],Gluten,None,Weight Loss,Moderately active,3
+75,48,Male,Omnivore,"['Potato', 'Tangerine', 'Cucumber']",['Cauliflower'],Gluten,Gluten,Muscle Gain,Moderately active,5
+76,32,Female,Omnivore,"['Apple', 'Tomato', 'Peach']",['Asparagus'],Gluten,None,General Fitness,Very active,2
+77,25,Male,Omnivore,"['Nectarine', 'Cauliflower', 'Green Cabbage']",['Potato'],None,Lactose,General Fitness,Very active,5
+78,31,Male,Omnivore,"['Bell Pepper', 'Watermelon', 'Carrot']",['Iceberg Lettuce'],None,Lactose,Muscle Gain,Very active,2
+79,40,Male,Vegetarian,"['Orange', 'Honeydew Melon', 'Onion']",['Plums'],Gluten,None,Muscle Gain,Moderately active,2
+80,57,Female,Vegetarian,"['Cantaloupe', 'Honeydew Melon', 'Sweet Potato']",['Tomato'],Gluten,None,Muscle Gain,Sedentary,4
+81,38,Female,Omnivore,"['Strawberries', 'Summer Squash', 'Mushrooms']",['Summer Squash'],Dairy,Gluten,Weight Loss,Sedentary,3
+82,33,Female,Vegan,"['Mushrooms', 'Summer Squash', 'Radishes']",['Onion'],Gluten,Gluten,Muscle Gain,Sedentary,3
+83,62,Female,Vegetarian,"['Summer Squash', 'Grapes', 'Green Onion']",['Watermelon'],Nuts,Lactose,Muscle Gain,Sedentary,3
+84,35,Male,Omnivore,"['Pear', 'Banana', 'Green (Snap) Beans']",['Mushrooms'],Nuts,Gluten,Weight Loss,Moderately active,2
+85,64,Female,Vegetarian,"['Orange', 'Cantaloupe', 'Leaf Lettuce']",['Green Onion'],Gluten,Gluten,General Fitness,Sedentary,3
+86,41,Male,Vegetarian,"['Celery', 'Honeydew Melon', 'Iceberg Lettuce']",['Potato'],None,Lactose,Muscle Gain,Very active,4
+87,43,Male,Vegan,"['Watermelon', 'Cauliflower', 'Asparagus']",['Carrot'],Dairy,Lactose,Muscle Gain,Very active,2
+88,42,Female,Omnivore,"['Broccoli', 'Watermelon', 'Nectarine']",['Strawberries'],None,Lactose,General Fitness,Sedentary,2
+89,62,Female,Omnivore,"['Honeydew Melon', 'Cucumber', 'Mushrooms']",['Cucumber'],Gluten,Lactose,General Fitness,Very active,2
+90,58,Female,Vegan,"['Plums', 'Onion', 'Sweet Corn']",['Apple'],Nuts,None,Weight Loss,Moderately active,2
+91,46,Female,Vegan,"['Potato', 'Summer Squash', 'Onion']",['Iceberg Lettuce'],Dairy,Lactose,Muscle Gain,Sedentary,4
+92,32,Female,Omnivore,"['Grapes', 'Radishes', 'Green Cabbage']",['Banana'],None,Lactose,Muscle Gain,Sedentary,3
+93,62,Female,Omnivore,"['Celery', 'Green Onion', 'Strawberries']",['Apple'],None,Lactose,Weight Loss,Moderately active,4
+94,18,Female,Vegan,"['Nectarine', 'Broccoli', 'Pineapple']",['Kiwifruit'],Gluten,Gluten,General Fitness,Very active,3
+95,42,Female,Vegetarian,"['Plums', 'Summer Squash', 'Grapes']",['Green Cabbage'],Dairy,Lactose,Weight Loss,Moderately active,4
+96,24,Male,Vegetarian,"['Avocado', 'Potato', 'Green Cabbage']",['Nectarine'],Nuts,None,General Fitness,Moderately active,5
+97,26,Female,Vegan,"['Sweet Corn', 'Potato', 'Nectarine']",['Potato'],Gluten,None,Weight Loss,Very active,5
+98,41,Female,Vegetarian,"['Cucumber', 'Radishes', 'Potato']",['Leaf Lettuce'],Dairy,Lactose,General Fitness,Moderately active,5
+99,18,Male,Vegan,"['Plums', 'Peach', 'Celery']",['Plums'],None,None,Weight Loss,Very active,5
+100,61,Female,Vegetarian,"['Onion', 'Bell Pepper', 'Asparagus']",['Potato'],Gluten,Gluten,General Fitness,Very active,2
